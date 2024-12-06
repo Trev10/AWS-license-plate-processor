@@ -5,7 +5,7 @@
         <color>Red</color>
         <owner preferredLanguage="english">
             <name>John Smith</name>
-            <contact>treviour.lee@bellevuecollege.edu</contact>
+            <contact>123@gmail.com</contact>
         </owner>
     </vehicle>
     <vehicle plate="5ALN015">
@@ -14,7 +14,7 @@
         <color>Blue</color>
         <owner preferredLanguage="spanish">
             <name>Jose Garcia</name>
-            <contact>treviour.lee@bellevuecollege.edu</contact>
+            <contact>123@gmail.com</contact>
         </owner>
     </vehicle>
     <vehicle plate="7TRR812">
@@ -23,7 +23,7 @@
         <color>Yellow</color>
         <owner preferredLanguage="russian">
             <name>Vladimir Lavrov</name>
-            <contact>treviour.lee@bellevuecollege.edu</contact>
+            <contact>123@gmail.com</contact>
         </owner>
     </vehicle>
     <vehicle plate="3ZZB646">
@@ -32,7 +32,7 @@
         <color>Silver</color>
         <owner preferredLanguage="french">
             <name>Chantal Barbier</name>
-            <contact>treviour.lee@bellevuecollege.edu</contact>
+            <contact>123@gmail.com</contact>
         </owner>
     </vehicle>
     <vehicle plate="6YMX832">
@@ -41,7 +41,7 @@
         <color>Red</color>
         <owner preferredLanguage="english">
             <name>Tim Carpenter</name>
-            <contact>treviour.lee@bellevuecollege.edu</contact>
+            <contact>123@gmail.com</contact>
         </owner>
     </vehicle>
 </dmv>
